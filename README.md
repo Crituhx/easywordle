@@ -32,7 +32,7 @@ A fun and lightweight Minecraft plugin that brings the classic Wordle game into 
 | `/ewordle play`    | Play Wordle in Minecraft! |
 | `/ewordle list`    | See the all words! |
 | `/ewordle reload`    | Reload configuration! 
-| and more ...    |
+ and more ...    
 
 (More commands and permissions will be added in future updates).
 
