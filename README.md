@@ -10,7 +10,7 @@ A fun and lightweight Minecraft plugin that brings the classic Wordle game into 
 - - 🟩🟨⬛ **Classic Wordle Mechanics**: Green for correct position, yellow for correct letter in wrong place, gray for incorrect.
 - 🎉 **Victory Recognition**: Celebrate your players' achievements.
 - 🔌 **PlaceholderAPI Support**: Display stats or status with placeholders.
-- 📦 **Modular Word Lists**: Easily add or edit words in `/Words/` folder.
+- 📦 **Modular Word Lists**: Easily add or edit words in `/words.yml`.
 
 ---
 
@@ -27,11 +27,14 @@ A fun and lightweight Minecraft plugin that brings the classic Wordle game into 
 
 | Command | Description |
 |--------|-------------|
-| `/ewordle help` | See all the EasyWordleCommands!. |
-| `/ewordle spanish` | Start a Wordle game in Spanish. |
-| `/ewordle help`    | Show help and usage instructions. |
+| `/ewordle help` | See all the EasyWordleCommands! |
+| `/ewordle duel` | Start a duel (check the subcommands) |
+| `/ewordle play`    | Play Wordle in Minecraft! |
+| `/ewordle list`    | See the all words! |
+| `/ewordle reload`    | Reload configuration! 
+| and more ...    |
 
-More commands and permissions will be added in future updates.
+(More commands and permissions will be added in future updates).
 
 ---
 
